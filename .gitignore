@@ -1,0 +1,10 @@
+# Installer staged by build-client.sh and interrupted temporary downloads
+/ScreenConnect.ClientSetup.sh
+/.ScreenConnect.ClientSetup.sh.*
+
+# makepkg working directories and outputs
+/src/
+/pkg/
+/*.pkg.tar*
+/*.src.tar*
+/*.log
